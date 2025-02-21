@@ -24,15 +24,15 @@
         "BACKGROUND_ACCENT": ["#353A42"],
         "BACKGROUND_MOBILE_PRIMARY": ["#252629"],
         "BACKGROUND_MOBILE_SECONDARY": ["#222325"],
-        "BACKGROUND_MOBILE_TERTIARY": ["#353A42"],
-        "BACKGROUND_NESTED_FLOATING": ["#000000"],
+        "BACKGROUND_MOBILE_TERTIARY": ["#000000"],
+        "BACKGROUND_NESTED_FLOATING": ["#353A42"],
         "BACKGROUND_MODIFIER_ACTIVE": ["#314F52"],
         "BACKGROUND_MODIFIER_SELECTED": ["#39595C"],
-        "BACKGROUND_MENTIONED": ["#946f59"],
+        "BACKGROUND_MENTIONED": ["#302d2e"],
         "CHAT_INPUT_CONTAINER_BACKGROUND": ["#31363d"],
         "CHAT_BACKGROUND": ["#252629"],
-        "INTERACTIVE_ACTIVE": ["#39595C"],
-        "INTERACTIVE_NORMAL": ["#314F52"],
+        "INTERACTIVE_ACTIVE": ["#AAC2AE"],
+        "INTERACTIVE_NORMAL": ["#538A8A"],
         "INTERACTIVE_MUTED": ["#304c4e"],
         "CHANNEL_ICON": ["#AAC2AE"],
         "CHANNELS_DEFAULT": ["#5c9e9e"],
@@ -60,7 +60,7 @@
     "plus": {
         "version": 0,
         "unreadBadgeColor": "#538A8A",
-        "mentionLineColor": "#302d2e",
+        "mentionLineColor": "#946f59",
         "iconpack": "md3"
 
     }
