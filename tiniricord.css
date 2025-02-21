@@ -1,0 +1,67 @@
+{
+    "name": "A Deep Commitment to Blurple [Edited with custom icons]",
+    "description": "A darker theme with blurple hues.",
+    "authors": [
+        {
+            "name": "Maisy",
+            "id": "257109471589957632"
+            },
+            {
+            "name": "King_Cube",
+            "id": "989197238687387709"
+        },
+        {
+            "name": "lightnike",
+            "id": "264946597442486274"
+        }
+    ],
+    "semanticColors": {
+        "CARD_PRIMARY_BG": ["#252629"],
+        "BACKGROUND_PRIMARY": ["#252629"],
+        "BACKGROUND_SECONDARY": ["#222325"],
+        "BACKGROUND_SECONDARY_ALT": ["#222325"],
+        "BACKGROUND_TERTIARY": ["#353A42"],
+        "BACKGROUND_ACCENT": ["#353A42"],
+        "BACKGROUND_MOBILE_PRIMARY": ["#252629"],
+        "BACKGROUND_MOBILE_SECONDARY": ["#222325"],
+        "BACKGROUND_MOBILE_TERTIARY": ["#353A42"],
+        "BACKGROUND_NESTED_FLOATING": ["#353A42"],
+        "BACKGROUND_MODIFIER_ACTIVE": ["#314F52"],
+        "BACKGROUND_MODIFIER_SELECTED": ["#39595C"],
+        "BACKGROUND_MENTIONED": ["#946f59"],
+        "CHAT_INPUT_CONTAINER_BACKGROUND": ["#31363d"],
+        "CHAT_BACKGROUND": ["#252629"],
+        "INTERACTIVE_ACTIVE": ["#39595C"],
+        "INTERACTIVE_NORMAL": ["#314F52"],
+        "INTERACTIVE_MUTED": ["#304c4e"],
+        "CHANNEL_ICON": ["#f5a571"],
+        "CHANNELS_DEFAULT": ["#5c9e9e"],
+        "HEADER_PRIMARY": ["#AAC2AE"],
+        "HEADER_SECONDARY": ["#DBD3CA"],
+        "TEXT_NORMAL": ["#DBD3CA"],
+        "TEXT_MUTED": ["#9E8B8E"],
+        "TEXT_LINK": ["#5c9e9e"],
+        "TEXT_DANGER": ["#c76363"],
+        "SPOILER_HIDDEN_BACKGROUND": ["#1C1E26"],
+        "SPOILER_REVEALED_BACKGROUND": ["#1C1E26"]
+    },
+    "rawColors": {
+        "PRIMARY_400": "#538A8A",
+        "PRIMARY_600": "#252629",
+        "PRIMARY_630": "#222325",
+        "PRIMARY_700": "#222325",
+        "PRIMARY_800": "#222325",
+        "YELLOW_300": "#D28450",
+        "BRAND_500": "#f5a571",
+        "RED_400": "#c76363",
+        "GREEN_360": "#538A8A"
+    },
+    "spec": 2,
+    "plus": {
+        "version": 0,
+        "unreadBadgeColor": "#538A8A",
+        "mentionLineColor": "#97725d"
+        "iconpack": "md3"
+
+    }
+}
