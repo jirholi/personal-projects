@@ -83,11 +83,11 @@
             "#29272E"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#222325",
+            "#111213",
             "#0E0D10"
         ],
         "BACKGROUND_TERTIARY": [
-            "#121215",
+            "#222325",
             "#121215"
         ],
         "BACKGROUND_ACCENT": [
@@ -209,7 +209,7 @@
     "BRAND_500": "#538A8A",
     "BRAND_560": "#C76363",
     "PLUM_1": "#C7636344",
-    "PLUM_10": "#804C6E",
+    "PLUM_10": "#C76363",
     "PLUM_11": "#191724",
     "PLUM_13": "#191724",
     "PLUM_15": "#31363d",
@@ -324,10 +324,6 @@
   "SourceCodePro-Semibold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1"
    },
   
-  "background": {
-      "alpha": 5,
-      "url": "https://github.com/VodkaXMartini/images/blob/main/Vision3.jpg?raw=true"
-  },
   "plus":{
      "version":"0",
      "iconpack":"rosiecord-plumpy",
