@@ -60,7 +60,7 @@
     "plus": {
         "version": 0,
         "unreadBadgeColor": "#538A8A",
-        "mentionLineColor": "#97725d"
+        "mentionLineColor": "#97725d",
         "iconpack": "md3"
 
     }
