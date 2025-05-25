@@ -1,9 +1,9 @@
 {
-  "name": "Catppuccin - Tin",
+  "name": "Catppuccin Tiniri",
   "description": "Soothing pastel theme for the high-spirited!",
   "authors": [
     {
-      "name": "Tiniri"
+      "name": "v3"
     }
   ],
   "semanticColors": {
@@ -20,7 +20,7 @@
     "BACKGROUND_NESTED_FLOATING": [ "#222325", "#181926" ],
     "BACKGROUND_PRIMARY": [ "#252629", "#222325" ],
     "BACKGROUND_SECONDARY": [ "#222325", "#252629" ],
-    "BACKGROUND_SECONDARY_ALT": [ "#222325", "#0003" ],
+    "BACKGROUND_SECONDARY_ALT": [ "#222325", "#000" ],
     "BACKGROUND_TERTIARY": [ "#181926", "#353A42" ],
     "BG_BASE_PRIMARY": [ "#252629", "#252629" ],
     "BG_BASE_SECONDARY": [ "#222325", "#222325" ],
@@ -33,14 +33,14 @@
     "CHANNELS_DEFAULT": [ "#9E8B8E", "#9E8B8E" ],
     "CHAT_BACKGROUND": [ "#252629", "#353A42" ],
     "HEADER_PRIMARY": [ "#DBD3CA", "#DBD3CA" ],
-    "HEADER_SECONDARY": [ "#b8c0e0", "#b8c0e0" ],
+    "HEADER_SECONDARY": [ "#AD514C", "#AD514C" ],
     "INPUT_BACKGROUND": [ "#181926", "#181926" ],
     "INTERACTIVE_ACTIVE": [ "#DBD3CA", "#DBD3CA" ],
     "INTERACTIVE_HOVER": [ "#fab485", "#fab485" ],
     "INTERACTIVE_MUTED": [ "#9E8B8E", "#9E8B8E" ],
     "INTERACTIVE_NORMAL": [ "#fab485", "#fab485" ],
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [ "#353A42", "#353A42" ],
-    "REDESIGN_BUTTON_SECONDARY_BORDER": [ "#0003", "#0003" ],
+    "REDESIGN_BUTTON_SECONDARY_BORDER": [ "#000", "#000" ],
     "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [ "#222325", "#222325" ],
     "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [ "#DBD3CA", "#DBD3CA" ],
     "REDESIGN_CHANNEL_NAME_TEXT": [ "#DBD3CA", "#DBD3CA" ],
@@ -105,7 +105,7 @@
     "PLUM_3": "#DBD3CA",
     "PLUM_4": "#538A8A",
     "PLUM_6": "#DBD3CA",
-    "PLUM_9": "#b8c0e0",
+    "PLUM_9": "#AD514C",
     "GREEN_100": "#a6da95",
     "GREEN_130": "#a6da95",
     "GREEN_160": "#a6da95",
