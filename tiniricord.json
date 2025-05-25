@@ -1,13 +1,13 @@
 {
-  "name": "Catppuccin Macchiato - Peach",
+  "name": "Catppuccin - Tiniri",
   "description": "Soothing pastel theme for the high-spirited!",
   "authors": [
     {
-      "name": "Catppuccin"
+      "name": "Tiniri"
     }
   ],
   "semanticColors": {
-    "ANDROID_RIPPLE": [ "#6e738d", "#6e738d" ],
+    "ANDROID_RIPPLE": [ "#68a0a0", "#68a0a0" ],
     "BACKGROUND_ACCENT": [ "#538A8A", "#538A8A" ],
     "BACKGROUND_MENTIONED": [ "#eed49f17", "#eed49f17" ],
     "BACKGROUND_MENTIONED_HOVER": [ "#fab485", "#fab485" ],
@@ -20,14 +20,14 @@
     "BACKGROUND_NESTED_FLOATING": [ "#222325", "#181926" ],
     "BACKGROUND_PRIMARY": [ "#252629", "#222325" ],
     "BACKGROUND_SECONDARY": [ "#222325", "#252629" ],
-    "BACKGROUND_SECONDARY_ALT": [ "#222325", "#494d64" ],
+    "BACKGROUND_SECONDARY_ALT": [ "#222325", "#0003" ],
     "BACKGROUND_TERTIARY": [ "#181926", "#353A42" ],
     "BG_BASE_PRIMARY": [ "#252629", "#252629" ],
     "BG_BASE_SECONDARY": [ "#222325", "#222325" ],
     "BG_BASE_TERTIARY": [ "#181926", "#181926" ],
     "EMBED_BACKGROUND": [ "#353A42", "#353A42" ],
     "CARD_PRIMARY_BG": [ "#252629", "#252629" ],
-    "CARD_PRIMARY_PRESSED_BG": [ "#6e738d", "#6e738d"],
+    "CARD_PRIMARY_PRESSED_BG": [ "#68a0a0", "#68a0a0"],
     "CARD_SECONDARY_BG": [ "#181926" ],
     "CHANNEL_ICON": [ "#fab485", "#fab485" ],
     "CHANNELS_DEFAULT": [ "#9E8B8E", "#9E8B8E" ],
@@ -40,7 +40,7 @@
     "INTERACTIVE_MUTED": [ "#9E8B8E", "#9E8B8E" ],
     "INTERACTIVE_NORMAL": [ "#fab485", "#fab485" ],
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [ "#353A42", "#353A42" ],
-    "REDESIGN_BUTTON_SECONDARY_BORDER": [ "#494d64", "#494d64" ],
+    "REDESIGN_BUTTON_SECONDARY_BORDER": [ "#0003", "#0003" ],
     "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [ "#222325", "#222325" ],
     "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [ "#DBD3CA", "#DBD3CA" ],
     "REDESIGN_CHANNEL_NAME_TEXT": [ "#DBD3CA", "#DBD3CA" ],
@@ -55,7 +55,7 @@
     "SPOILER_REVEALED_BACKGROUND": [ "#314F5240", "#314F5240" ]
   },
   "rawColors": {
-    "BRAND_260": "#6e738d",
+    "BRAND_260": "#68a0a0",
     "BRAND_300": "#538A8A",
     "BRAND_360": "#538A8A",
     "BRAND_500": "#538A8A",
@@ -94,7 +94,7 @@
     "PLUM_11": "#9E8B8E",
     "PLUM_13": "#9E8B8E",
     "PLUM_14": "#314F52",
-    "PLUM_15": "#494d64",
+    "PLUM_15": "#0003",
     "PLUM_16": "#353A42",
     "PLUM_17": "#181926",
     "PLUM_18": "#353A42",
